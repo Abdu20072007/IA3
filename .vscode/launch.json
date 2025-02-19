@@ -1,0 +1,86 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Genetic_Algorithms.TT.Main",
+            "projectName": "IA_e12a908f",
+            "vmArgs": "--module-path \"C:/ja"
+        
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BinaryGA",
+            "request": "launch",
+            "mainClass": "Genetic_Algorithms.Dash.BinaryGA",
+            "projectName": "IA_e12a908f"
+        },
+        {
+            "type": "java",
+            "name": "PermutationGA",
+            "request": "launch",
+            "mainClass": "Genetic_Algorithms.Dash.PermutationGA",
+            "projectName": "IA_e12a908f"
+        },
+        {
+            "type": "java",
+            "name": "Timetables",
+            "request": "launch",
+            "mainClass": "Genetic_Algorithms.TT.Timetables",
+            "projectName": "IA_e12a908f"
+        },
+        {
+            "type": "java",
+            "name": "Utilities",
+            "request": "launch",
+            "mainClass": "Genetic_Algorithms.TT.Utilities",
+            "projectName": "IA_e12a908f"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "Genetic_Algorithms.TT.test",
+            "projectName": "IA_e12a908f"
+        },
+        {
+            "type": "java",
+            "name": "Timetables(1)",
+            "request": "launch",
+            "mainClass": "Genetic_Algorithms.TimeTable1.Timetables",
+            "projectName": "IA_e12a908f"
+        },
+        {
+            "type": "java",
+            "name": "World",
+            "request": "launch",
+            "mainClass": "Genetic_Algorithms.World",
+            "projectName": "IA_e12a908f"
+        },
+        {
+            "type": "java",
+            "name": "experimet",
+            "request": "launch",
+            "mainClass": "experimet",
+            "projectName": "IA_e12a908f"
+        },
+        {
+            "type": "java",
+            "name": "yjtfyh",
+            "request": "launch",
+            "mainClass": "yjtfyh",
+            "projectName": "IA_e12a908f"
+        }
+    ]
+}
